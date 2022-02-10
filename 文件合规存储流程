@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T02:46:31.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="teDlBtHeZThKYsWd8nGU" version="16.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T02:47:16.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="AhCjRILADj8EDBdRswMe" version="16.2.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-23" value="请求签名加密" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+        <mxCell id="7baba1c4bc27f4b0-23" value="请求签名SM4加密" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
           <mxGeometry x="-0.1792" relative="1" as="geometry">
             <mxPoint x="360" y="322" as="sourcePoint" />
             <mxPoint x="780" y="322" as="targetPoint" />
