@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T03:27:21.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="HkNYipUlzGO2-UODQoML" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T03:27:38.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="dVnJu_aZvJGVaIpJQkIR" version="17.4.0" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -175,6 +175,9 @@
             <mxPoint x="130" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="D-5Mkm0WoFAVphHgILJh-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="D-5Mkm0WoFAVphHgILJh-1">
+          <mxGeometry x="45" y="50" width="10" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="D-5Mkm0WoFAVphHgILJh-2" value="POS 串口程序 &quot;山东高速&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="920" width="100" height="600" as="geometry" />
         </mxCell>
@@ -209,6 +212,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="940" y="1030" as="sourcePoint" />
             <mxPoint x="340" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D-5Mkm0WoFAVphHgILJh-20" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="D-5Mkm0WoFAVphHgILJh-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="1030" as="sourcePoint" />
+            <mxPoint x="240" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
