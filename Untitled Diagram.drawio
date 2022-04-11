@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T07:55:39.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="a7SDpcSUmBQkCukUl4pt" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T07:56:12.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="Pl_jcIQyPKP4Y_4dWGG0" version="17.4.2" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -484,22 +484,28 @@
         <mxCell id="xb5AY5iqo3YvJbGLRZmN-83" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="xb5AY5iqo3YvJbGLRZmN-70">
           <mxGeometry x="45" y="270" width="10" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xb5AY5iqo3YvJbGLRZmN-77" value="支付宝、微信回调" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="xb5AY5iqo3YvJbGLRZmN-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="290" as="sourcePoint" />
+            <mxPoint x="-140" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xb5AY5iqo3YvJbGLRZmN-71" value="微信、支付宝" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1260" y="1700" width="100" height="610" as="geometry" />
         </mxCell>
         <mxCell id="xb5AY5iqo3YvJbGLRZmN-74" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="xb5AY5iqo3YvJbGLRZmN-71">
           <mxGeometry x="45" y="175" width="10" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="xb5AY5iqo3YvJbGLRZmN-76" value="支付宝、微信回调" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+        <mxCell id="xb5AY5iqo3YvJbGLRZmN-85" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="xb5AY5iqo3YvJbGLRZmN-71">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1300" y="1930" as="sourcePoint" />
-            <mxPoint x="1120" y="1930" as="targetPoint" />
+            <mxPoint x="40" y="230" as="sourcePoint" />
+            <mxPoint x="-140" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xb5AY5iqo3YvJbGLRZmN-77" value="支付宝、微信回调" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+        <mxCell id="xb5AY5iqo3YvJbGLRZmN-76" value="支付宝、微信回调" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="1930" as="sourcePoint" />
-            <mxPoint x="920" y="1930" as="targetPoint" />
+            <mxPoint x="1300" y="1990" as="sourcePoint" />
+            <mxPoint x="1120" y="1990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xb5AY5iqo3YvJbGLRZmN-78" value="e高速app" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
@@ -510,6 +516,12 @@
         </mxCell>
         <mxCell id="xb5AY5iqo3YvJbGLRZmN-80" value="微信、支付宝" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="2400" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="xb5AY5iqo3YvJbGLRZmN-86" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="1930" as="sourcePoint" />
+            <mxPoint x="920" y="1930" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
