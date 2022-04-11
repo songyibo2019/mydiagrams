@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T08:33:18.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="d5c2u_85gT-lFY0U8eia" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T08:34:03.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="Z89RuSqZJ9Izl_qDvqft" version="17.4.2" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1422" dy="-56" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -479,6 +479,12 @@
             <mxPoint x="520" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xb5AY5iqo3YvJbGLRZmN-141" value="查询支付结果" style="html=1;verticalAlign=bottom;endArrow=block;rounded=1;sketch=0;curved=0;entryX=-0.5;entryY=0.725;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xb5AY5iqo3YvJbGLRZmN-120" target="xb5AY5iqo3YvJbGLRZmN-124">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="60" y="400" as="sourcePoint" />
+            <mxPoint x="140" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xb5AY5iqo3YvJbGLRZmN-121" value="ietc-h5" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="2400" width="100" height="520" as="geometry" />
         </mxCell>
@@ -534,6 +540,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1160" y="2750" as="sourcePoint" />
             <mxPoint x="700" y="2750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xb5AY5iqo3YvJbGLRZmN-142" value="返回支付结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=1;sketch=0;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="2880" as="sourcePoint" />
+            <mxPoint x="700" y="2880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
